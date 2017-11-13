@@ -1,5 +1,9 @@
+This is my first commit. I just created the file hello-world.txt.
+
 This is my second commit. I just added some text in my file.
 
 This is my third commit. I just add some more text.
+
+This is my fourth commit. I added this afted I had pushed my project.
 
 
